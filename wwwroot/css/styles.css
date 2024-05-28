@@ -2849,7 +2849,7 @@ textarea.form-control-lg {
     --bs-btn-bg: #ffc800;
     --bs-btn-border-color: #ffc800;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #52FFF9;/*立即體驗*/
+    --bs-btn-hover-bg: #517BC8; /*立即體驗*/
     --bs-btn-hover-border-color: #cca000;
     --bs-btn-focus-shadow-rgb: 255, 208, 38;
     --bs-btn-active-color: #fff;
@@ -10904,7 +10904,7 @@ p {
   letter-spacing: 0.0625em;
 }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-        color: #0004FF;/*導覽列顏色*/
+        color: #A0C4E5; /*導覽列顏色*/
     }
 
 @media (min-width: 992px) {
